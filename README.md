@@ -39,7 +39,7 @@ Untuk mengoperasikan kalkulator, pengguna akan diminta untuk:
 ### Cara Instalasi ###
 1. Clone repositori dengan menjalankan perintah
 ```
-git clone https://github.com/aininurulazizah/Test-Automation.git
+git clone https://github.com/ameliaanathasa/Calculator-UnitTesting-Gradle.git
 ```
 2. Buka proyek menggunakan IDE. Proses instalasi JavaBuild akan dilakukan secara otomatis ketika proyek dibuka dan tunggu hingga proses instalasi selesai.
 
